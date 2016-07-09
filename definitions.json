@@ -1,0 +1,11 @@
+{
+    "algorithm": "An explicit set of steps to solve a problem.",
+    "server": "A computer that is always on and connected to the internet that sends things to other computers which request them.",
+    "cloud": "An extremely large collection of computers that others can access through the internet to help them with computing tasks.",
+    "artificial intelligence": "A field of computing where people write programs that can solve problems on their own instead of the programmer explicity designing the solution process.",
+    "neural network": "A type of artificial intelligence algorithm that uses simplified model of brain neurons to solve problems",
+    "deep learning": "A type of artificial intelligence that uses a large number of layers of an algorithm (such as neural networks) to solve problems",
+    "machine learning": "A field related to artificial intelligence where people write programs, often using statistics and probability, to analyze data inputs and discover patterns in order to solve problems.",
+    "virtual reality": "An environment independent of the physical world that a person interacts with as if it's the real world.",
+    "augmented reality": "An environment based on the real world where a user interacts with both physical elements and simulated ones; in another sense, partway between \"virtual\" reality and actual reality."
+}
