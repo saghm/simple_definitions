@@ -1,6 +1,8 @@
 {
     "algorithm": "An explicit set of steps to solve a problem.",
+    "the internet": "A global network of computers that all communicate with each other through a shared system a communication.",
     "server": "A computer that is always on and connected to the internet that sends things to other computers which request them.",
+    "the web": "A system allowing computer to use the internet to access pages stored on servers",
     "cloud": "An extremely large collection of computers that others can access through the internet to help them with computing tasks.",
     "artificial intelligence": "A field of computing where people write programs that can solve problems on their own instead of the programmer explicity designing the solution process.",
     "neural network": "A type of artificial intelligence algorithm that uses simplified model of brain neurons to solve problems",
